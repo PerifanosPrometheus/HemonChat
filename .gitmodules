@@ -1,0 +1,6 @@
+[submodule "app/frontend"]
+	path = app/frontend
+	url = https://github.com/PerifanosPrometheus/hemonchat-frontend.git
+[submodule "app/backend"]
+	path = app/backend
+	url = https://github.com/PerifanosPrometheus/hemonchat-backend.git
