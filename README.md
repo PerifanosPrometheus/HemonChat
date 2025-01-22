@@ -81,7 +81,7 @@ The repo contains:
 3) Code to train a Llama-2-7b-chat-hf model.
    - [train.py](train/train.py) - script used for training the model on [RunPod](https://docs.runpod.io/).
    - [train_QLORA.ipynb](train/train_QLORA.ipynb) - sample code to train the model with QLoRA on google colab.
-4) A simple app to chat with the model. The app is deployed at <insert link here>
+4) A simple [app](https://hemonchat-frontend.vercel.app/) to chat with the model.
    - [Model](https://huggingface.co/GiorgioDiSalvo/Llama-2-7b-hemonchat-v1) - deployed using HuggingFace Inference Endpoints.
    - [backend](app/backend/) - the backend of the app.
    - [frontend](app/frontend/) - the frontend of the app.
